@@ -9,7 +9,11 @@
     "start": "npm run serve"
   },
   "dependencies": {
+    "@antv/g6": "^4.3.4",
+    "@antv/layout": "^0.1.15",
+    "@antv/x6": "^1.24.5",
     "core-js": "^3.6.5",
+    "insert-css": "^2.0.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
